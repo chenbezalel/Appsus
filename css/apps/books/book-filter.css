@@ -1,0 +1,19 @@
+.book-filter {
+    padding: 10px;
+}
+
+.book-filter label {
+    font-family: roboto-bold;
+}
+
+.book-filter input {
+    margin: 5px;
+    border-radius: 3px;
+    border: 1px solid black;
+    font-size: 1em;
+    padding: 5px;
+}
+
+.price-input {
+    width: 100px;
+}

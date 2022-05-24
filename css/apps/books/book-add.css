@@ -1,0 +1,52 @@
+.book-add {
+    padding: 10px;
+}
+
+.book-add label {
+    font-family: roboto-bold;
+}
+
+.book-add input {
+    margin: 5px;
+    border-radius: 3px;
+    border: 1px solid black;
+    font-size: 1em;
+    padding: 5px;
+}
+
+
+.book-add li {
+    display: flex;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.book-add h1 {
+    margin-left: 20px;
+    font-size: 1.1em;
+    font-family: roboto-bold;
+}
+
+.book-add li button {
+    background-color: greenyellow;
+    border-radius: 100%;
+}
+
+.book-add li button:hover {
+    background-color: rgb(147, 216, 44);
+    cursor: pointer;
+}
+
+.search-button {
+    width: 100px;
+    height: 30px;
+    margin-left: 5px;
+    border-radius: 10px;
+    border: 1px solid black;
+    font-size: 1em;
+    background-color: rgb(255, 255, 255);
+}
+
+.search-button:hover {
+    cursor: pointer;
+}
